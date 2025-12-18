@@ -28,3 +28,30 @@ This project showcases my skills, projects, and basic information with a clean a
 
 ## 📂 Project Structure
 
+
+---
+
+## 🎯 Purpose
+
+This project was created to practice:
+- Semantic HTML
+- CSS layouts (Flexbox & Grid)
+- Responsive design without JavaScript
+
+---
+
+## 📸 Preview
+
+(Add screenshots of the portfolio here)
+
+---
+
+## 🚀 Live Demo
+
+(Add your GitHub Pages link here)
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
