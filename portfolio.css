@@ -39,6 +39,7 @@ body{
     border: none;
     background-color: #8b5cf6;
     color: white;
+    cursor: pointer;
    
   }
 .header-buttons:hover{
@@ -68,6 +69,7 @@ body{
   width: auto;
   height: auto;
  border-radius: 120px;
+ border: 2px solid #8b5cf6;
  
 }
 .skills {
